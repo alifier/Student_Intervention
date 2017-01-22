@@ -1,6 +1,6 @@
 # Project: Building a Student Intervention System
 ## Goal: Evaluate the Performance of different Supervised Learning Models and Implement Parameter Tuning
-## This report is a modified version of the 'Building a Student Intervention System' Udacity Project that is part of the Machine Learning Engineer Nanodegree program
+## This report is a modified version of my solution to the 'Building a Student Intervention System' Udacity Project that is part of the Machine Learning Engineer Nanodegree program
 
 
 The report is saved in an iPython Notebook format. To review it click on the [Student_Intervention.ipynb](./Student_Intervention.ipynb) file.
